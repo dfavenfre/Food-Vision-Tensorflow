@@ -186,8 +186,19 @@ cnn_model.fit(
 ```
 
 # Evaluation
-After training, the model is evaluated on the test dataset to measure its performance. Below is an example of the evaluation metrics and confusion matrix.
+After training, the model is evaluated on the test dataset to measure its performance. To see detailed 
+results follow the [Wandb link](https://wandb.ai/alone-wolf/Food-Vision%20Model/reports/Food-Vision-CNN-Binary-Model-Development--Vmlldzo5NTUxMzYx?accessToken=t76o08f5sbzrow4xptstvlheara0abb8q7nsksh2ty6urhalwmvyax1o1ouknk66) 
 ![image](https://github.com/user-attachments/assets/8b7dd1c8-edeb-491b-a48f-61c885659935)
+
+## Validation Accuracy
+![W B Chart 9_30_2024, 2_35_04 PM](https://github.com/user-attachments/assets/8499ae1e-7589-4a30-9858-7f21f2bc4d91)
+
+## Training/Validation Loss
+![W B Chart 9_30_2024, 2_35_31 PM](https://github.com/user-attachments/assets/830d0ab7-32d1-4a9f-8238-c7228dd723ac)
+
+## Hyperparameter Importance
+![W B Chart 9_30_2024, 2_35_42 PM](https://github.com/user-attachments/assets/9a668bf9-f154-4af8-8df1-e471bd2786a8)
+
 
 # Requirements
 To run this project, you will need to install the following dependencies:
